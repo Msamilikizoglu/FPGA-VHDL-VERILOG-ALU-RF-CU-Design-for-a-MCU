@@ -19,3 +19,6 @@ More details are included in the files such as "ALU Design.pdf", "RB Design.pdf"
 Project Report is included as "Project Report.pdf" in turkish language.
 
 "Xilinx ISE Project Files.rar" is actually whole files of the ise project
+
+
+Contact me if you have any questions or willing to inform me: muhammedikizoglu@gmail.com
